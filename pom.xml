@@ -6,11 +6,11 @@
 	<artifactId>order-inventory</artifactId>
 	<version>1.0.0</version>
 	<packaging>pom</packaging>
-
 	<modules>
-		<module>order-service</module>
-		<module>inventory-service</module>
+		<module>order</module>
+		<module>inventory</module>
 	</modules>
+
 	<properties>
 		<java.version>11</java.version>
 		<spring.boot.version>4.0.0-M3</spring.boot.version>
