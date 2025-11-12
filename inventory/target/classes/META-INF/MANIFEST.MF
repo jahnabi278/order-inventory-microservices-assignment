@@ -1,12 +1,5 @@
-<<<<<<< HEAD:inventory/target/classes/META-INF/MANIFEST.MF
 Manifest-Version: 1.0
 Built-By: JahnabiSharma
 Build-Jdk: 17.0.2
 Created-By: Maven Integration for Eclipse
 
-=======
-Manifest-Version: 1.0
-Build-Jdk-Spec: 21
-Created-By: Maven Integration for Eclipse
-
->>>>>>> aa83240ccbadfc1cacc6e2865eb2be80268416de:order-service/target/classes/META-INF/MANIFEST.MF
